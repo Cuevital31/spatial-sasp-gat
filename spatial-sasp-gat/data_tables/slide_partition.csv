@@ -1,0 +1,77 @@
+slide_id,cancer,platform,cohort,study,biological_sample_id,leakage_group_id,confidence_level,split_assignment
+TENX152,COAD,Visium,PRIMARY_VISIUM,Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling,,SINGLE__TENX152,PROVISIONAL_SLIDE_UNIQUE,val
+MISC73,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_6723,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC72,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_6723,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC71,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_6723,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC70,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_6723,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC69,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC68,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC67,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC66,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC65,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC64,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC63,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC62,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7003,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC58,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7794,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC57,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7794,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC56,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_7794,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC51,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC50,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC49,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC48,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC47,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC46,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC45,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8270,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,val
+MISC44,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8578,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC43,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8578,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC42,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8578,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC41,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8578,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,train
+MISC40,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC39,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC38,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC37,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC36,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC35,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC34,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+MISC33,COAD,Visium,PRIMARY_VISIUM,COLON MAP: Colon Molecular Atlas Project,,COLON_MAP_SUBSERIES_PREFIX_8899,CONSERVATIVE_LEAKAGE_GROUP__SUBSERIES_PREFIX,test
+TENX92,COAD,Visium,PRIMARY_VISIUM,Visium CytAssist Gene Expression Libraries of Post-Xenium Human Colon Cancer (FFPE),,CONSERVATIVE_LEAKAGE_GROUP_TENX89_92,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX91,COAD,Visium,PRIMARY_VISIUM,Visium CytAssist Gene Expression Libraries of Post-Xenium Human Colon Cancer (FFPE),,CONSERVATIVE_LEAKAGE_GROUP_TENX89_92,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX90,COAD,Visium,PRIMARY_VISIUM,Visium CytAssist Gene Expression Libraries of Post-Xenium Human Colon Cancer (FFPE),,CONSERVATIVE_LEAKAGE_GROUP_TENX89_92,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX89,COAD,Visium,PRIMARY_VISIUM,Visium CytAssist Gene Expression Libraries of Post-Xenium Human Colon Cancer (FFPE),,CONSERVATIVE_LEAKAGE_GROUP_TENX89_92,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX68,IDC,Visium,PRIMARY_VISIUM,"Fresh Frozen Visium on CytAssist: Human Breast Cancer, Probe-Based Whole Transcriptome Profiling",,SINGLE__TENX68,PROVISIONAL_SLIDE_UNIQUE,train
+TENX53,IDC,Visium,PRIMARY_VISIUM,"Human Breast Cancer: Visium Fresh Frozen, Whole Transcriptome",,SINGLE__TENX53,PROVISIONAL_SLIDE_UNIQUE,val
+TENX49,COAD,Visium,PRIMARY_VISIUM,Human Intestine Cancer (FPPE),,SINGLE__TENX49,PROVISIONAL_SLIDE_UNIQUE,test
+TENX39,IDC,Visium,PRIMARY_VISIUM,"Human Breast Cancer: Ductal Carcinoma In Situ, Invasive Carcinoma (FFPE)",,SINGLE__TENX39,PROVISIONAL_SLIDE_UNIQUE,train
+TENX29,COAD,Visium,PRIMARY_VISIUM,Human Colorectal Cancer: Whole Transcriptome Analysis,,CONSERVATIVE_LEAKAGE_GROUP_TENX28_29,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX24,ILC,Visium,PRIMARY_VISIUM,Human Breast Cancer: Whole Transcriptome Analysis,,CONSERVATIVE_LEAKAGE_GROUP_TENX23_24,CONSERVATIVE_LEAKAGE_GROUP__TITLE_SIMILARITY_ONLY,train
+TENX14,IDC,Visium,PRIMARY_VISIUM,Human Breast Cancer (Block A Section 2),TENX_BLOCK_A_HIGH_CONF,TENX_BLOCK_A_HIGH_CONF,HIGH_CONFIDENCE_SAME_BLOCK,train
+TENX13,IDC,Visium,PRIMARY_VISIUM,Human Breast Cancer (Block A Section 1),TENX_BLOCK_A_HIGH_CONF,TENX_BLOCK_A_HIGH_CONF,HIGH_CONFIDENCE_SAME_BLOCK,train
+ZEN49,READ,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_1,ZEN_CRC_CMS__Patient_1,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN48,READ,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_1,ZEN_CRC_CMS__Patient_1,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN47,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_2,ZEN_CRC_CMS__Patient_2,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN46,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_2,ZEN_CRC_CMS__Patient_2,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN45,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_3,ZEN_CRC_CMS__Patient_3,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN44,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_3,ZEN_CRC_CMS__Patient_3,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN43,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_4,ZEN_CRC_CMS__Patient_4,RESOLVED_STUDY_SCOPED_PATIENT,val
+ZEN42,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_5,ZEN_CRC_CMS__Patient_5,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN40,READ,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_7,ZEN_CRC_CMS__Patient_7,RESOLVED_STUDY_SCOPED_PATIENT,test
+ZEN39,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_4,ZEN_CRC_CMS__Patient_4,RESOLVED_STUDY_SCOPED_PATIENT,val
+ZEN38,COAD,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_5,ZEN_CRC_CMS__Patient_5,RESOLVED_STUDY_SCOPED_PATIENT,train
+ZEN36,READ,Visium,PRIMARY_VISIUM,Charting the Heterogeneity of Colorectal Cancer Consensus Molecular Subtypes using Spatial Transcriptomics: datasets,ZEN_CRC_CMS__Patient_7,ZEN_CRC_CMS__Patient_7,RESOLVED_STUDY_SCOPED_PATIENT,test
+NCBI776,IDC,Visium,PRIMARY_VISIUM,"High resolution mapping of the tumor microenvironment using integrated single-cell, spatial and in situ analysis [scRNA-seq and Visium]",,SINGLE__NCBI776,UNRESOLVED_NO_PATIENT,train
+NCBI684,IDC,Visium,PRIMARY_VISIUM,Single cell profiling of primary and paired metastatic lymph node tumors in breast cancer patients,NCBI_BREAST__Patient_3,NCBI_BREAST__Patient_3,RESOLVED_STUDY_SCOPED_PATIENT,test
+NCBI683,IDC,Visium,PRIMARY_VISIUM,Single cell profiling of primary and paired metastatic lymph node tumors in breast cancer patients,NCBI_BREAST__Patient_6,NCBI_BREAST__Patient_6,RESOLVED_STUDY_SCOPED_PATIENT,val
+NCBI682,IDC,Visium,PRIMARY_VISIUM,Single cell profiling of primary and paired metastatic lymph node tumors in breast cancer patients,NCBI_BREAST__Patient_7,NCBI_BREAST__Patient_7,RESOLVED_STUDY_SCOPED_PATIENT,test
+NCBI681,IDC,Visium,PRIMARY_VISIUM,Single cell profiling of primary and paired metastatic lymph node tumors in breast cancer patients,NCBI_BREAST__Patient_8,NCBI_BREAST__Patient_8,RESOLVED_STUDY_SCOPED_PATIENT,val
+TENX180,IDC,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Library, Human Breast Cancer (Fresh Frozen), Ultima Sequencing",,HD__TENX180,HD_SEPARATE_COHORT,external_hd
+TENX171,LUAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Libraries, Post-Xenium, Human Lung Cancer (FFPE)",,HD__TENX171,HD_SEPARATE_COHORT,external_hd
+TENX170,LUAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Libraries, Post-Xenium, Human Lung Cancer (FFPE)",,HD__TENX170,HD_SEPARATE_COHORT,external_hd
+TENX169,LUAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Libraries, Post-Xenium, Human Lung Cancer (FFPE)",,HD__TENX169,HD_SEPARATE_COHORT,external_hd
+TENX168,LUAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Libraries, Post-Xenium, Human Lung Cancer (FFPE)",,HD__TENX168,HD_SEPARATE_COHORT,external_hd
+TENX163,LUAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Library, Human Lung Cancer (Fixed Frozen)",,HD__TENX163,HD_SEPARATE_COHORT,external_hd
+TENX162,IDC,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Library, Human Breast Cancer (Fresh Frozen)",,HD__TENX162,HD_SEPARATE_COHORT,external_hd
+TENX161,IDC,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Library, Human Breast Cancer (Fixed Frozen)",,HD__TENX161,HD_SEPARATE_COHORT,external_hd
+TENX156,COAD,Visium HD,SECONDARY_HD_ROBUSTNESS,Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling,,HD__TENX156,HD_SEPARATE_COHORT,external_hd
+TENX155,COAD,Visium HD,SECONDARY_HD_ROBUSTNESS,Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling,,HD__TENX155,HD_SEPARATE_COHORT,external_hd
+TENX154,COAD,Visium HD,SECONDARY_HD_ROBUSTNESS,Characterization of immune cell populations in the tumor microenvironment of colorectal cancer using high definition spatial profiling,,HD__TENX154,HD_SEPARATE_COHORT,external_hd
+TENX128,COAD,Visium HD,SECONDARY_HD_ROBUSTNESS,"Visium HD Spatial Gene Expression Library, Human Colorectal Cancer (FFPE)",,HD__TENX128,HD_SEPARATE_COHORT,external_hd
